@@ -4,10 +4,9 @@
   2) BS in Mechanical Engineering @ Virginia Tech (May 2024)
 
 Academic Interests:
-  1) Wearable robotics
-  2) Exoskeletons
-  3) Robotics
-  4) Controls
+
+Wearable robotics, Exoskeletons, Robotics, Controls, CAD/Design, Mechanical Design, Leadership, Team Organization/Structure
 
 Personal Interests:
+
 🏐 Volleyball, 🎱 Billiards, ⚽ Soccer, 🛠 CAD/Design
