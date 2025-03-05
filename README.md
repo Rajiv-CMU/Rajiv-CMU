@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Rajiv:
+🏫 Academic History:
+  1) MS in Mechanical Engineering @ Carnegie Mellon University (Present)
+  2) BS in Mechanical Engineering @ Virginia Tech (May 2024)
 
-<!--
-**Rajiv-CMU/Rajiv-CMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Academic Interests:
+  1) Wearable robotics
+  2) Exoskeletons
+  3) Robotics
+  4) Controls
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal Interests:
+🏐 Volleyball, 🎱 Billiards, ⚽ Soccer, 🛠 CAD/Design
