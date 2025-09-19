@@ -1,7 +1,8 @@
 ## About Me:
 🏫 Academic History:
-  1) MS in Mechanical Engineering @ Carnegie Mellon University (Present)
-  2) BS in Mechanical Engineering @ Virginia Tech (May 2024)
+  1) Masters of Science in Mecahnical Engineering - Research @ Carnegie Mellon University (Present)
+  2) Bachelors of Science in Mechanical Engineering - Robotics and Mechatronics @ Virginia Tech (May 2024)
+  3) Bachelors of Science in Mechanical Engineering - Mechanical @ Virginia Tech (May 2024)
 
 📔 Academic Interests:
 
